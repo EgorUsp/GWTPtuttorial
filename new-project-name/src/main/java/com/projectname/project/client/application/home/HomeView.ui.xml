@@ -2,7 +2,9 @@
         xmlns:g='urn:import:com.google.gwt.user.client.ui'>
 
     <g:HTMLPanel>
-        
+
+        <g:Button ui:field="startClickButton" text="button"/><br/>
+
         <p>Welcome to asshole!</p>
         
     </g:HTMLPanel>
