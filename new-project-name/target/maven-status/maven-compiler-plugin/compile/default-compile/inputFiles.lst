@@ -1,13 +1,17 @@
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\ApplicationModule.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\place\NameTokens.java
+C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\launcher\LauncherView.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\home\HomeModule.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\resources\ResourceLoader.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\ApplicationPresenter.java
+C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\launcher\LauncherPresenter.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\server\guice\ServerModule.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\server\guice\DispatchServletModule.java
+C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\launcher\LauncherModule.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\home\HomePresenter.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\resources\AppResources.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\ApplicationView.java
+C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\launcher\LauncherUiHandlers.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\gin\ClientModule.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\server\guice\GuiceServletConfig.java
 C:\Users\Developer\Documents\GWTPtuttorial\new-project-name\src\main\java\com\projectname\project\client\application\home\HomeView.java

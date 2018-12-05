@@ -1,11 +1,11 @@
-<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
-        xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+<!--<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'-->
+        <!--xmlns:g='urn:import:com.google.gwt.user.client.ui'>-->
 
-    <g:HTMLPanel>
+    <!--<g:HTMLPanel>-->
 
-        <g:Button ui:field="startClickButton" text="button"/><br/>
+        <!--<g:Button ui:field="startClickButton" text="button"/><br/>-->
 
-        <p>Welcome to asshole!</p>
-        
-    </g:HTMLPanel>
-</ui:UiBinder>
+        <!--<p>Welcome to asshole!</p>-->
+
+    <!--</g:HTMLPanel>-->
+<!--</ui:UiBinder>-->
