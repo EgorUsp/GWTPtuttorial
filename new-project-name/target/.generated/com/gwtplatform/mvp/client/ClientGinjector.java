@@ -19,4 +19,6 @@ public interface ClientGinjector extends Ginjector {
   Provider<com.projectname.project.client.application.ApplicationPresenter> getcomprojectnameprojectclientapplicationApplicationPresenter();
   
   Provider<com.projectname.project.client.application.home.HomePresenter> getcomprojectnameprojectclientapplicationhomeHomePresenter();
+  
+  Provider<com.projectname.project.client.application.launcher.LauncherPresenter> getcomprojectnameprojectclientapplicationlauncherLauncherPresenter();
 }

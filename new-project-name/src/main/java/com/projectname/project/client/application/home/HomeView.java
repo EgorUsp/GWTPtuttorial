@@ -25,7 +25,7 @@
 //        startClickButton.addClickHandler(new ClickHandler() {
 //            @Override
 //            public void onClick(ClickEvent event) {
-//                Window.alert("Privet");
+//                Window.alert("Privet farshmak!");
 //            }
 //        });
 //    }
