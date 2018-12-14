@@ -7,12 +7,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7e5aa08-64f6-43ae-9071-b68f394a2b60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/new-project-name.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/new-project-name.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/new-project-name.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/projectname/project/client/application/ApplicationModule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/projectname/project/client/application/ApplicationView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/projectname/project/client/application/launcher/LauncherView$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/projectname/project/client/application/launcher/LauncherView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/constants/NumberConstantsImpl_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/impl/LocaleInfoImpl_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/i18n/client/impl/LocaleInfoImpl_shared.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/lang/com_00046projectname_00046project_00046Project__EntryMethodHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/place/shared/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/DocumentModeAsserter_DocumentModeProperty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/impl/WindowImplIE_Resources_default_InlineClientBundleGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplGecko1_8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplIe10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplIe8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplIe9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/useragent/client/UserAgentImplSafari.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/web/bindery/event/shared/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/common/client/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/common/shared/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/ApplicationControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/ClientGinjector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/DesktopGinjector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/DesktopGinjectorProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/GinjectorProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/MobileGinjector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/MobileGinjectorProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/TabletGinjector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/TabletGinjectorProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/client/proxy/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/gwtplatform/mvp/shared/proxy/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/ApplicationPresenterMyProxyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/ApplicationView_BinderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/ApplicationView_BinderImpl_GenBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/ApplicationView_BinderImpl_TemplateImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/home/HomePresenterMyProxyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/home/HomeView_BinderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/home/HomeView_BinderImpl_GenBundle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/home/HomeView_BinderImpl_TemplateImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/application/home/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/resources/AppResources_default_InlineClientBundleGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.generated/com/projectname/project/client/resources/com_gwtplatform_mvp_client_DesktopGinjector_DesktopGinjectorGinjector_fragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C0DDA2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10158" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10164" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10557" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10592" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10610" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C1081C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10866" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10880" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10A03" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10A7C" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10B5F" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10B84" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10BC2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000016778C10BD5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-00000167A74A5076" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-00000167A74A6387" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/26B645BF284767675E27A1D2814AFBBA.cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/26B645BF284767675E27A1D2814AFBBA.cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/2C3182A36692A4AE06627CC359C5EB1F.cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/2C3182A36692A4AE06627CC359C5EB1F.cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/4F9B7D2CE7D1AA6A3B84BD25DE3D4E4A.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/4FEA2E99BDE8E40C23261EA54A8D0EAF.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/6623ED8DD67808D6E3E4C95DCF77A097.cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/6623ED8DD67808D6E3E4C95DCF77A097.cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/69881424FF93B21902E6C7E377524C57.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/6A389F8F1A9CF8B5331A5D4A4FB1C562.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/6D74EBF01ACDEBCA7351DB6F63711E4D.cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/6D74EBF01ACDEBCA7351DB6F63711E4D.cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/6EF28F39760C53F9394CB1115D480F4C.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/AE6B21E03BBBA1EDDFD6DDF1E702F32C.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/B0585B7C71C953F48479AC8C08577B61.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/C4CF2876209D433BB56833A4F5BD839A.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/C9A029EF93B3EFDBEEC25E410D7FF367.cache.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/C9A029EF93B3EFDBEEC25E410D7FF367.cache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/F9D3D4B7B1E1A5D99C868518D5D09F46.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/FCA0FAC8D7CA82B4D1FC1C97DA73EDFF.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/Project.devmode.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/Project.devmode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/Project.nocache.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/Project.nocache.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/compilation-mappings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/Project/compilation-mappings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/META-INF/gwtp-appengine-guice-archetype.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/ApplicationModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/ApplicationPresenter$MyProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/ApplicationPresenter$MyView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/ApplicationPresenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/ApplicationView$Binder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/ApplicationView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformPresenter$MyProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformPresenter$MyView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformPresenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformUiHandlers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformView$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformView$Binder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/application/loginform/LoginformView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/gin/ClientModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/place/NameTokens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/resources/AppResources$Normalize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/resources/AppResources$Style.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/resources/AppResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/resources/ResourceLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/resources/css/normalize.gss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/client/resources/css/style.gss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/server/guice/DispatchServletModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/server/guice/GuiceServletConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/classes/com/akcom/test_akcom/server/guice/ServerModule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/deploy/Project/rpcPolicyManifest/manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/deploy/Project/symbolMaps/4F9B7D2CE7D1AA6A3B84BD25DE3D4E4A.symbolMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/deploy/Project/symbolMaps/4FEA2E99BDE8E40C23261EA54A8D0EAF.symbolMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/deploy/Project/symbolMaps/69881424FF93B21902E6C7E377524C57.symbolMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/deploy/Project/symbolMaps/AE6B21E03BBBA1EDDFD6DDF1E702F32C.symbolMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gwtp-appengine-guice-archetype-1.5.3/WEB-INF/deploy/Project/symbolMaps/B0585B7C71C953F48479AC8C08577B61.symbolMap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,7 +132,16 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherModule.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/GuiceServletConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/ServerModule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -33,73 +150,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/Project.gwt.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherPresenter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/gin/ClientModule.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/DispatchServletModule.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/place/NameTokens.java">
+        <entry file="file://$PROJECT_DIR$/.idea/jarRepositories.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherView.ui.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherUiHandlers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/resources/AppResources.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="323">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/new-project-name.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="425">
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,10 +189,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationPresenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationView.ui.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/resources/ResourceLoader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -126,6 +236,15 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>HomeModule</find>
+      <find>helloorm</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Developer\Documents\GWTPtuttorial\new-project-name</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -286,6 +405,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,74 +416,22 @@
             <path>
               <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
               <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gwtp-appengine-guice-archetype" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new-project-name" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="launcher" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544705995003" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544783569095" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -383,6 +451,21 @@
         <option name="artifact" value="new-project-name:war exploded" />
         <artifact>new-project-name:war exploded</artifact>
       </server-settings>
+      <ConfigurationWrapper VM_VAR="" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -420,18 +503,18 @@
       <workItem from="1543840927665" duration="2851000" />
       <workItem from="1543927711130" duration="8957000" />
       <workItem from="1544778551339" duration="3129000" />
+      <workItem from="1544782562374" duration="1070000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31546000" />
+    <option name="totallyTimeSpent" value="33037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.3391685" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.34682712" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -453,14 +536,14 @@
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32932165" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.053610504" />
+      <window_info anchor="right" id="Maven" order="6" visible="true" weight="0.0" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
@@ -473,47 +556,16 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/DispatchServletModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/GuiceServletConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/ServerModule.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherUiHandlers.ui.fxml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/resources/launcherUiHandlers.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherUiHandlers.ui.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationView.ui.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="137" column="20" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -531,37 +583,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/home/HomeView.ui.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/home/HomeView.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationPresenter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -593,7 +618,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/resources/ResourceLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/home/HomeView.ui.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
@@ -602,22 +627,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherUiHandlers.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -628,13 +646,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherUiHandlers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/launcher/LauncherView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="425">
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationPresenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/application/ApplicationView.ui.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/client/resources/ResourceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/GuiceServletConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/ServerModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/projectname/project/server/guice/DispatchServletModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/jarRepositories.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/new-project-name.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>

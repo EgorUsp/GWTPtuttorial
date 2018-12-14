@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+<module version="4">
   <component name="FacetManager">
     <facet type="jpa" name="JPA">
       <configuration>
         <setting name="validation-enabled" value="true" />
-        <datasource-mapping>
-          <factory-entry name="helloorm" />
-        </datasource-mapping>
+        <datasource-mapping />
         <naming-strategy-map />
         <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/appengine-java-sdk-1.9.20/demos/helloorm/war/WEB-INF/classes/META-INF/persistence.xml" />
       </configuration>
